@@ -3,3 +3,8 @@
 ################################################################################
 
 /packages
+/Caelum.Leilao.Tests/bin/Debug
+/Caelum.Leilao.Tests/obj/Debug
+/Caelum.Leilao/bin/Debug
+/Caelum.Leilao/obj/Debug
+/.vs/Caelum.Leilao/v15
